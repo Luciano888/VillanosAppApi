@@ -1,0 +1,12 @@
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb

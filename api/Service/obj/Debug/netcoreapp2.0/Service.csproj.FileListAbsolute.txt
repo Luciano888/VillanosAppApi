@@ -1,0 +1,14 @@
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.csprojAssemblyReference.cache
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.dll
+C:\Users\Luciano Mendez\Documents\Visual Studio 2017\Projects\New folder\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.pdb
